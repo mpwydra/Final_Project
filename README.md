@@ -10,7 +10,7 @@ Places closer to the border with Liberia and Guinea as well as the capital city 
 
 Eventually, I moved to a closer perspective with the aforementioned second administrative subdivision (adm2) of Abidjan. However, converting this area to a raster and extracting the data proved to be too large of a task for my computer so, inevitably, I moved to a smaller adm2 (population-wise) called Bafing. With a current population of around 180,000, this was far easier to handle than almost 4.5 million people. Additionally, it looked nicer on a political map, which is always nice:
 
-![](Final_Final_Final_Plot.pdf)
+![](FIIIINALLLLLL.png)
 
 The next step in my presentation was to find urban developments and find how densely populated said areas were. I did so and it yielded these results:
 
